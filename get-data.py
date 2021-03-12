@@ -18,7 +18,7 @@ reddit = praw.Reddit(
     password="nlpproject"
      
 )
-#Random_Acts_Of_Amazon, depression,news, depression_help, ForeverAlone
+#depression, depression_help, Random_Acts_Of_Amazon, news,  ForeverAlone
 forum = "ForeverAlone" 
 subreddit = reddit.subreddit(forum)
 
